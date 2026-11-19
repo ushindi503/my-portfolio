@@ -1,0 +1,111 @@
+body{
+	margin:0;
+	font-family:Arial, sans-serif;
+	background-color: #f4f7fb;
+	color:#333;
+}
+/*HEADER*/
+header{
+	background-color:#1e4265;
+	color:white;
+	text-align:centre;
+	padding:25px;
+}
+
+header h1{
+	margin:0;
+    font-size:32px;
+}
+/*NAVIGATION*/
+nav{
+	background-color:#16334f;
+	padding:15px;
+	text-align:center;
+}
+nav a{
+	color:white;
+	text-decoration:none;
+	margin:15x;
+	font-weight:bold;
+}
+nav a:hover{
+	color:#8ecae6;
+}
+/*MAIN CONTENT*/
+main{
+	text-align:center;
+	padding:40px 20x;
+}
+main h2{
+	color:#1e4265;
+}
+main img{
+	width:200px;
+	height:200px;
+	object-fit:cover;
+	border-radius:50%;
+	border:5px solid #1e4625;
+}
+/*FOOTER*/
+footer{
+	background-color:#1e4265;
+	color:white;
+	text-align:center;
+	padding:15px;
+	margin-top:30px;
+}
+	
+/* CONTACT FORM STYLING */
+
+form {
+    background-color: white;
+    max-width: 450px;
+    margin: 25px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+form label {
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+form button {
+    background-color: #1e4265;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+form button:hover {
+    background-color: #16334f;
+}
+
+#response {
+    color: green;
+    font-weight: bold;
+}
+
+
+	 
