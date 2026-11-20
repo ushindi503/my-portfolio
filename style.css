@@ -6,7 +6,7 @@ body{
 }
 /*HEADER*/
 header{
-	background-color:#1e4265;
+	background-color:#cf1559;
 	color:white;
 	text-align:centre;
 	padding:25px;
@@ -18,7 +18,7 @@ header h1{
 }
 /*NAVIGATION*/
 nav{
-	background-color:#16334f;
+	background-color:#e70c72;
 	padding:15px;
 	text-align:center;
 }
@@ -29,7 +29,7 @@ nav a{
 	font-weight:bold;
 }
 nav a:hover{
-	color:#8ecae6;
+	color:#0da9f1;
 }
 /*MAIN CONTENT*/
 main{
@@ -48,7 +48,7 @@ main img{
 }
 /*FOOTER*/
 footer{
-	background-color:#1e4265;
+	background-color:#cf1559;
 	color:white;
 	text-align:center;
 	padding:15px;
@@ -89,7 +89,7 @@ form textarea {
 }
 
 form button {
-    background-color: #1e4265;
+    background-color: #cf1559;
     color: white;
     border: none;
     padding: 12px 25px;
